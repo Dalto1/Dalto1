@@ -99,3 +99,5 @@
 </div>
 
 </td></tr></table>  
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dalto/4c906652-f6da-4867-bc65-94ae98dcb3c9.png" /></a>
