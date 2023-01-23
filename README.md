@@ -8,7 +8,7 @@
 
 - ⌛ I’m currently **[working on personnal projects](https://wakatime.com/@dalto)** and to improve myself
 
-- 🌱 I’m currently learning **C#, Maui, Python**
+- 🌱 I’m currently learning **C#, Maui, Blazor, Angular**
 
 - 🔭 I’m currently working at **[Logiq Innovations](https://www.logiq.ca/)**
 
