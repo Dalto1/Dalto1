@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **C#, Maui, Blazor, Angular**
 
-- 🔭 I’m currently working at **[Logiq Innovations](https://www.logiq.ca/)**
-
 - 💬 Ask me about **My personnals projects**
 
 - 📫 How to reach me **gabrieldaoust1@hotmail.com**
